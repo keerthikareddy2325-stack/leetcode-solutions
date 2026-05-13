@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1389-create-target-array-in-the-given-order](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
