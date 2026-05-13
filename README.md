@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1773-count-items-matching-a-rule](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 ## String
 |  |
