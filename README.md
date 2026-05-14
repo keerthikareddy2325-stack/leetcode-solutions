@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0867-transpose-matrix](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1313-decompress-run-length-encoded-list](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1389-create-target-array-in-the-given-order](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
