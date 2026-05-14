@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0258-add-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0258-add-digits](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
