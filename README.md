@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
