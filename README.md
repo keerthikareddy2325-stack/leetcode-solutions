@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [1313-decompress-run-length-encoded-list](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1389-create-target-array-in-the-given-order](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
