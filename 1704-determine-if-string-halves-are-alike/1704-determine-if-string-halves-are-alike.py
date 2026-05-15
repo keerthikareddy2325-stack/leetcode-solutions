@@ -1,21 +1,17 @@
 class Solution:
     def halvesAreAlike(self, s: str) -> bool:
-        len_s = len(s)
-        first_half = s[:len_s // 2]
-        second_half = s[len_s // 2:]
-        count_vowels_first_half = 0
-        count_vowels_second_half = 0
-
-        for char in first_half:
+        l= len(s)
+        f= s[:l// 2]
+        s= s[l// 2:]
+        cf=0
+        cs=0
+        for char in f:
             if char in 'aeiouAEIOU':
-                count_vowels_first_half = count_vowels_first_half + 1
-
-
-        for char in second_half:
+                cf = cf+1
+        for char in s:
             if char in 'aeiouAEIOU':
-                count_vowels_second_half = count_vowels_second_half + 1
-
-        if count_vowels_first_half == count_vowels_second_half:
+                cs = cs+1
+        if cf == cs:
             return True
         else:
             return False 
