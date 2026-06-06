@@ -129,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0832-flipping-an-image) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
