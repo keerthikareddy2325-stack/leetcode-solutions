@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0367-valid-perfect-square) |
