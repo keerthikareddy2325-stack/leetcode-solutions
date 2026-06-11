@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
+| [1859-sorting-the-sentence](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1859-sorting-the-sentence](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Matrix
 |  |
