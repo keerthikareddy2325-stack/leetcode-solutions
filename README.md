@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Matrix
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Interactive
 |  |
 | ------- |
