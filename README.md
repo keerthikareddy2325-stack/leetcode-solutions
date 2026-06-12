@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0367-valid-perfect-square) |
