@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0263-ugly-number) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0503-next-greater-element-ii](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
