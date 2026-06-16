@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0867-transpose-matrix) |
