@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1051-height-checker](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1051-height-checker) |
 | [1052-grumpy-bookstore-owner](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1313-decompress-run-length-encoded-list](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1859-sorting-the-sentence](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1051-height-checker) |
 ## Trie
 |  |
 | ------- |
