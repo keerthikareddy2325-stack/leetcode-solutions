@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1051-height-checker) |
 | [1052-grumpy-bookstore-owner](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1313-decompress-run-length-encoded-list](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
+| [1331-rank-transform-of-an-array](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [1331-rank-transform-of-an-array](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1051-height-checker) |
+| [1331-rank-transform-of-an-array](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1859-sorting-the-sentence](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
