@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0832-flipping-an-image) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0078-subsets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
