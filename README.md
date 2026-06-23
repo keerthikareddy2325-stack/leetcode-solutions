@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/1051-height-checker) |
 ## Trie
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/0561-array-partition) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/keerthikareddy2325-stack/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 ## Interactive
